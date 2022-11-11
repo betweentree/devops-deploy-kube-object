@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: betweentree01/hellow-world2:12
+        image: betweentree01/hellow-world:13
         ports:
         - containerPort: 8080
